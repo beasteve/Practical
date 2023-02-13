@@ -1,0 +1,63 @@
+{
+    "soccer": {
+        "name": "Soccer",
+        "subscribers": 80000,
+        "description": "the footbla subreddit,.News, Report",
+        "posts": [
+            {
+                "title": "Marten de Room to make pizza",
+                "author": "jorrxtreme"
+            },
+            {
+                "title": "Stephen Lichtstainer has retired from professional",
+                "author": "odd person"
+            },
+            {
+                "title": "OFFICIAL: Dani! Perejo sign for Villareal.",
+                "author": "jorrxtreme"
+            }
+        ]
+    },
+    "chickens": {
+        "name": "Checkens",
+        "subscribers": 52000,
+        "description": "the footbla subreddit,.News, Report",
+        "posts": [
+            {
+                "title": "Full Chicken house of Chiefs",
+                "author": "jorrxtreme",
+                "img": "https://cdn.pixabay.com/photo/2016/11/29/05/32/rooster-1867562_960_720.jpg"
+            },
+            {
+                "title": "King John has world record of food",
+                "author": "odd person"
+            },
+            {
+                "title": "Laying Eggs and get problems",
+                "author": "jorrxtreme",
+                "img": "https://cdn.pixabay.com/photo/2016/11/29/05/25/chicken-1867521_960_720.jpg"
+            }
+        ]
+    },
+    "mightharvest": {
+        "name": "MightHarvest",
+        "subscribers": 67000,
+        "description": "World of crisis Fu,.News, Report",
+        "posts": [
+            {
+                "title": "Full Chicken house of Chiefs",
+                "author": "jorrxtreme"
+            },
+            {
+                "title": "Great come back from goal down",
+                "author": "Keane Harry",
+                "img": "https://cdn.pixabay.com/photo/2015/03/14/19/45/suit-673697_960_720.jpg"
+            },
+            {
+                "title": "WOW where to go!",
+                "author": "Steve Bruce",
+                "img": "https://cdn.pixabay.com/photo/2017/08/10/08/55/breakfast-2620176_960_720.jpg"
+            }
+        ]
+    }
+}

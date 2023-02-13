@@ -1,0 +1,103 @@
+* {
+  text-decoration: none;
+}
+
+.main {
+  display: flex;
+  background-image: url("../images/bg.jpg");
+  padding: 20px;
+  flex-direction: column;
+  cursor: pointer;
+}
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+}
+
+.navbar-items {
+  list-style: none;
+  margin: 30px auto;
+  display: flex;
+  gap: 100px;
+  color: white;
+}
+.navbar-item a {
+  font-size: 24px;
+  margin: 20px;
+  color: white;
+  transition: 0.2s ease;
+  display: flex;
+}
+
+.navbar-item a:hover {
+  color: aqua;
+  text-transform: uppercase;
+}
+
+.main h1 {
+  color: coral;
+  font-size: 40px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+.main h1 span {
+  color: white;
+  font-weight: 900;
+  font-size: 60px;
+  padding-left: 20px;
+}
+
+.btn-main {
+  padding: 12px;
+  text-align: center;
+  border: 2px solid coral;
+  border-radius: 10px;
+  width: 130px;
+  font-size: 20px;
+  color: white;
+  background: transparent;
+}
+
+.mainProfile {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.mainProfile h2 {
+  color: coral;
+  font-size: 35px;
+}
+
+.mainProfile span {
+  color: white;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.dogImg {
+  height: 200px;
+  width: 200px;
+  padding-bottom: 3px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+/* @media screen and(max-width: 768px) {
+  .main {
+    background-image: url("../images/cov.jpg");
+  }
+
+  .navbar {
+    width: 100%;
+    display: flex;
+  }
+
+  .navbar-item a {
+    display: block;
+    width: 50%;
+  }
+} */
